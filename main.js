@@ -1,6 +1,6 @@
 
 var buttonList = document.querySelector('.buttons');
-var showme = document.querySelector('#screen');
+var showme = document.querySelector('#shown');
 
 buttonList.addEventListener('click', function(event) {
 	var number = event.target.textContent;

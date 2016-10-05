@@ -32,6 +32,14 @@ h1 {
 	position: absolute;
 	top: 15px;
 	left: 25px;
+	text-align: right;
+}
+
+#shown {
+	position: relative;
+	top: 30px;
+	right: 5px;
+	font-size: 50px;
 }
 
 li {
